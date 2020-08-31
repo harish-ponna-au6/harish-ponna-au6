@@ -36,7 +36,7 @@
 
   :zap: Github Stats
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.harish-ponna-au6.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="harish's Github Stats" src="https://github-readme-stats.harish-ponna-au6.vercel.app/api?username=harish-ponna-au6&show_icons=true&hide_border=true" />
 
 
 
