@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harish Ponna</h1>
-<h3 align="center">A passionate MERN Stack Developer <a href="https://linkedin.com/in/https://www.linkedin.com/in/harish-ponna-b9b885ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/harish-ponna-b9b885ba/" height="30" width="30" /></a></h3>
+<h3 align="center">A passionate MERN Stack Developer <a href="https://www.linkedin.com/in/harish-ponna-b9b885ba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/harish-ponna-b9b885ba/" height="30" width="30" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-ponna-au6" alt="harish-ponna-au6" /> </p>
 
